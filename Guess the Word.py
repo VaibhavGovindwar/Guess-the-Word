@@ -1,7 +1,5 @@
 # guess the word game
-n = int(input())
-
-# creating the sentence fun and split the sentance by split method
+# Create the Sentence and split the sentence by split method
 sentence = input().split()
 
 # assign a length
